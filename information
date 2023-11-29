@@ -1,0 +1,9 @@
+Design visualization reports using Pentaho BI.
+Developed many Dashboards using Pentaho CDE, CDA.
+Extracted the data from Postgresql stage to DWH using Pentaho Data Integration.
+Managed the versioning of code with git hub.
+Deployed the Code in form of Docker using CircleCi.
+Followed Agile methodology using Jira.
+Monitor Jobs using Rancher Lab (Kubernetes K8s management platform).
+Manage Clusters, Namespaces, Containers and pods in Rancher Lab.
+Jobs Scheduling using Rancher Lab.
